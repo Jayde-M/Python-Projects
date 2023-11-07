@@ -1,0 +1,1 @@
+web: gunicorn jayde_pages.wsgi
